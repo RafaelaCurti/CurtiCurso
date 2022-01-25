@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T00:37:03.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wXhjWUg6n5tRYsyemIgE" version="16.4.6" type="github"><diagram id="bHLJ33jiGBxl9nC773XA" name="Page-1">7VfBcpswEP2WHnR0Bgsb10ebJG5m6mln3DZn2ZJBU6ElQsS4X98VCAN20smph8QzHga9XfY9LQt+kDDOqpVheboGLhShAa9IeEsoHU8oJe4X8GODzOaTBkiM5D6pAzbyj/Bg4NFSclEMEi2AsjIfgjvQWuzsAGPGwGGYtgc1ZM1ZIi6AzY6pS/RRcps26Gc66/AvQiZpyzyO5k0kY22y30mRMg6HHhTekTA2ALY5y6pYKNe8ti/NdfevRE/CjND2LRdMy3W+ioqAR8sKVsmS/Ux/jfzdeWaq9BsmNFJYb5kiQZS4sxYpcqbdPuzRNyd6Kp345SGVVowwvEN84UQZ0UV7ZQgN572CqLWpeeW58lzy7AEH+yUeFxgV9avCsdAory5pFqViGHx46LE0FYcsW3OOYOLl8OdvUTKevKTkvd6fK88H4/lfws/gryQOyTJM5M490BwrB98NJIZlzEUWs/oYQu0CMjzeq7Ly8X895Pn1Gf8wPLGRDGcgKLO6RDsdwVPpxklUcsvqqDtmQhdo61ymdmsrFLshzl35YWqLrtvEWlin6puqJxL/Q4J1qTl8Gghu5W3PezAcSTpoB7WicnhqM4XA2LXMGvgtYlBgENGghRtWqdQZ5HondYLAtFv9gByBEar2Ld40Hb49oI1HDJ6F2avarqaSc6ERM4CbEc5NBieFmIbKXnWk45PPxQ8EAZmw5ogp/oKJd8bH4fLQ+ezZ1GNp32O3jpp5b5+cKnf2F0+8A26XndOuY73vlfDuLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-25T01:14:43.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OGSLBaRwAEYl-Mbyhti0" version="16.4.6" type="github">
+  <diagram id="bHLJ33jiGBxl9nC773XA" name="Page-1">
+    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xObSriB6eqIMl1O0uH-g-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;entryX=0.056;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5uMpG6s0d6BxoGgBaUhV-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1120" as="sourcePoint" />
+            <mxPoint x="80" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;entryX=0.96;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5uMpG6s0d6BxoGgBaUhV-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1120" as="sourcePoint" />
+            <mxPoint x="760" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="34" y="40" width="760" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="319" y="50" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5uMpG6s0d6BxoGgBaUhV-2" value="&lt;h1&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp;&lt;font style=&quot;font-size: 26px&quot;&gt;Aula II&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/span&gt;Lógica de Programação com Fluxograma&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;Criar um programa que exiba uma mensagem na tela. &lt;b&gt;Mensagem: &quot;Olá Mundo!&quot;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="39" y="60" width="750" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1120" as="sourcePoint" />
+            <mxPoint x="760" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=14;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="72.5" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=14;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="19" y="40" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=14;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="40" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-16" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry y="1120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="787" y="1120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="xObSriB6eqIMl1O0uH-g-21" target="xObSriB6eqIMl1O0uH-g-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-21" value="&lt;font color=&quot;#000000&quot;&gt;Início&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=14;fontColor=#FFCCFF;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="364" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-22" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;fontColor=#000000;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1050" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="xObSriB6eqIMl1O0uH-g-23" target="xObSriB6eqIMl1O0uH-g-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xObSriB6eqIMl1O0uH-g-23" value="&lt;b&gt;Olá Mundo!&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=14;fontColor=#000000;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="364" y="620" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
